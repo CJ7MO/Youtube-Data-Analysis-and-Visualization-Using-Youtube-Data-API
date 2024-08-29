@@ -1,0 +1,321 @@
+,Title,Published_date,views,likes,comments,Month
+0,S3 Storage in AWS | AWS Essentials,2024-08-27,1518,72,7,Aug
+1,AWS Setup and UI Walkthough | AWS,2024-08-20,3825,168,14,Aug
+2,Getting Started in Azure Synapse Analytics | Azure Fundamentals,2024-08-13,4176,99,7,Aug
+3,August Q/A Livestream! Come Ask Me Anything!,2024-08-09,4863,219,15,Aug
+4,Getting Started in Azure Data Factory | Azure Fundamentals,2024-08-06,4793,121,18,Aug
+5,How to use Azure SQL Databases | Azure Fundamentals,2024-07-30,6185,206,9,Jul
+6,Complete Data Analyst Roadmap on Analyst Builder | Become a Data Analyst Faster!,2024-07-25,36637,1103,141,Jul
+7,Blob Storage and Storage Accounts in Azure | Azure Fundamentals,2024-07-23,2878,79,9,Jul
+8,Azure Account Setup + $200 Free Credits | Azure Fundamentals,2024-07-16,6108,265,25,Jul
+9,Building a Fully Interactive Web App using Shiny for Python,2024-07-09,8087,279,22,Jul
+10,Shiny for Python Components and Layouts | Customizing You Web App,2024-07-02,4037,130,8,Jul
+11,Shiny for Python Setup and Install | Deploying First Shiny App,2024-06-25,7206,248,31,Jun
+12,Is the Economy on the Brink of a Recession? | Let's Look at the Data!,2024-06-18,12022,726,129,Jun
+13,Top 5 Most Common Excel Functions in Excel,2024-06-11,6679,324,8,Jun
+14,5 Awesome Excel Functions You've Probably Never Heard Of,2024-06-04,4997,217,17,Jun
+15,How to Create Custom Functions in Excel | Lambda Functions,2024-05-28,5185,196,13,May
+16,Top 5 Most Popular Functions In Microsoft Excel,2024-05-21,14194,410,26,May
+17,Infrastructure of Analyst Builder | Entire Tech Stack | Part 3,2024-05-14,4432,82,10,May
+18,2 Hour Data Analyst Interview Masterclass | Interview Better Than The Competition,2024-05-07,62231,2262,54,May
+19,Challenges of Creating Analyst Builder | Challenges of a Startup | Part 2,2024-05-07,2287,60,11,May
+20,How We Started Analyst Builder | How We Created It | Part 1,2024-04-30,6071,200,35,Apr
+21,MySQL Exploratory Data Analysis | Full Project,2024-04-23,58251,1458,73,Apr
+22,750k Subscriber Livestream! | Giveaways | Songs | Q/A,2024-04-18,5132,230,14,Apr
+23,Data Cleaning in MySQL | Full Project,2024-04-16,129407,3207,467,Apr
+24,How to get Promoted as a Data Analyst | Alex The Analyst Show Episode 26,2024-04-09,8308,258,82,Apr
+25,Triggers and Events in MySQL | Advanced MySQL Series,2024-04-02,39267,1450,63,Apr
+26,How to give up on the job search fast,2024-03-27,15988,1174,26,Mar
+27,Stored Procedures in MySQL | Advanced MySQL Series,2024-03-26,42065,908,41,Mar
+28,Temp Tables in MySQL | Advanced MySQL Series,2024-03-19,32734,786,38,Mar
+29,CTEs in MySQL | Advanced MySQL Series,2024-03-12,53587,1020,35,Mar
+30,7 Mistakes to Avoid During Your Data Analyst Job Search,2024-03-05,18514,704,50,Mar
+31,#DataAnalyst #AnalystBuilder #SQL,2024-03-01,15258,1094,13,Mar
+32,Q/A Livestream | February Livestream | Ask Me Anything!,2024-02-29,5532,191,7,Feb
+33,Window Functions in MySQL | Intermediate MySQL,2024-02-27,61388,1868,64,Feb
+34,Twitter making me tear up over here 🥹,2024-02-23,6071,273,11,Feb
+35,Subqueries in MySQL | Intermediate MySQL,2024-02-20,52437,995,47,Feb
+36,Case Statements in MySQL | Intermediate MySQL,2024-02-13,47971,961,48,Feb
+37,We did our best,2024-02-08,5714,214,5,Feb
+38,"Microsoft Copilot Full Review | AI in Word, PowerPoint, Excel and More!",2024-02-06,75997,940,48,Feb
+39,Top 5 Emerging Trends in 2024 | CareerFoundry Webinar,2024-01-30,13186,476,10,Jan
+40,String Functions in MySQL | Intermediate MySQL Series,2024-01-30,52340,1047,32,Jan
+41,Unions in MySQL | Intermediate MySQL,2024-01-23,50225,1023,39,Jan
+42,Joins in MySQL | Intermediate MySQL,2024-01-16,103606,1556,72,Jan
+43,Is my background in Data Analytics?,2024-01-15,18043,1206,17,Jan
+44,Solving VERY HARD SQL Interview Questions on Analyst Builder,2024-01-11,16240,435,18,Jan
+45,Solving HARD SQL Interview Questions on Analyst Builder,2024-01-09,23002,480,34,Jan
+46,Hard Skills vs Soft Skills,2024-01-08,11253,823,6,Jan
+47,Solving Medium SQL Interview Questions on Analyst Builder,2024-01-04,23770,539,46,Jan
+48,Solving Easy SQL Interview Questions on Analyst Builder,2024-01-02,41651,1009,51,Jan
+49,How I Would Become a Data Analyst if I had to Start Over in 2024 | 6 Month Plan,2023-12-26,312628,12639,379,Dec
+50,Limit + Aliasing in MySQL | MySQL Beginner Series,2023-12-19,56077,1145,40,Dec
+51,Practice SQL and Python right on your Phone!,2023-12-13,8616,593,20,Dec
+52,Analyst Builder Full Launch! | The Learning Platform Built for Data Analysts,2023-12-12,22960,996,109,Dec
+53,Analyst Builder Full Launch LiveStream | 20% Off Code & Giveaways,2023-12-11,11746,472,14,Dec
+54,Having vs Where in MySQL | Beginner MySQL Series,2023-12-05,63555,1258,27,Dec
+55,#Excel is Frustrating,2023-11-29,10832,715,9,Nov
+56,7 Mistakes to Avoid in Your Data Analytics Job Search | CareerFoundry Webinar,2023-11-28,13671,432,11,Nov
+57,Group By + Order By in MySQL | Beginner MySQL Series,2023-11-28,81299,1561,39,Nov
+58,Where Clause in MySQL | Beginner MySQL Series,2023-11-21,89555,1623,66,Nov
+59,Why Data Analysts Hate Using Excel,2023-11-14,24857,940,142,Nov
+60,Select Statement in MySQL | Beginner MySQL Series,2023-11-07,144368,1937,75,Nov
+61,Installing MySQL and Creating Databases | MySQL for Beginners,2023-10-31,419119,5808,639,Oct
+62,Python Beginner to Advanced in One Hour | CareerFoundry Webinar,2023-10-26,25137,979,14,Oct
+63,How to Start a Data YouTube Channel,2023-10-24,8777,404,46,Oct
+64,600k Livestream! | Analyst Builder Giveaways | Songs | My Mom is Joining!,2023-10-20,5144,240,11,Oct
+65,Consulting and Freelancing in Data Analytics | ATA Show: Episode 25,2023-10-17,16683,632,242,Oct
+66,Data Analyst vs Business Analyst,2023-10-13,65806,3873,38,Oct
+67,First Look at Analyst Builder! | The All-in-One Platform for Data Analysts | Beta Launch Coming Soon,2023-10-10,32073,859,214,Oct
+68,#DataAnalysis #DataAnalyst #DataRealities,2023-10-09,23918,1486,21,Oct
+69,#DataAnalyst #DataCareers #DataAnalysis,2023-10-05,16187,1256,32,Oct
+70,"Data Analyst vs Data Engineer | Responsibilities, Salaries, Skills, Education",2023-10-03,35686,772,42,Oct
+71,Data Analyst Q/A Livestream | September Livestream | Ask Me Anything!,2023-09-28,8950,286,21,Sep
+72,#Salary #DataAnalyst #SalaryNegotiation,2023-09-28,13154,907,7,Sep
+73,AI and Analytics with SAS | SAS Explore Recap,2023-09-26,16228,413,28,Sep
+74,My Very First Video,2023-09-25,8549,480,29,Sep
+75,#DataAnalyst #CareerPath,2023-09-22,25713,1984,19,Sep
+76,"Data Analyst vs Data Scientist | Responsibilities, Salaries, Skills, Education",2023-09-19,44718,1097,52,Sep
+77,#Excel #DataAnalyst #DataAnalysis,2023-09-18,13990,1136,20,Sep
+78,"Data Analyst vs Business Analyst | Responsibilities, Salaries, Skills, Education",2023-09-12,44437,1591,100,Sep
+79,#DataAnalysis #DataAnalyst,2023-09-07,19852,1455,23,Sep
+80,Hard Skills vs Soft Skills in the Data World | Which is More Important?,2023-09-05,14476,669,30,Sep
+81,"Entry Level vs Mid Level vs Senior Level Data Analyst | Responsibilities, Salary, Education, Skills",2023-08-29,41642,1846,112,Aug
+82,#DataAnalyst #DataAnalysis #Promotion,2023-08-28,10465,623,10,Aug
+83,#DataAnalyst #DataAnalysis,2023-08-24,19712,1328,53,Aug
+84,Regular Expression Use Cases in Python,2023-08-22,9012,212,20,Aug
+85,Data Analyst Q/A Livestream | August Livestream | Ask Me Anything!,2023-08-18,8465,322,25,Aug
+86,#DataAnalystSalary #DataAnalysis,2023-08-17,35451,2676,44,Aug
+87,How to Work with Recruiters on LinkedIn,2023-08-15,37151,1901,84,Aug
+88,#dataanalysis #dataportfolio,2023-08-14,26847,2458,25,Aug
+89,#wife #careerchange #dataanalysis,2023-08-11,19948,1878,51,Aug
+90,LINK: https://www.youtube.com/playlist?list=PLUaB-1hjhk8FE_XZ87vPPSfHqb6OcM0cF,2023-08-09,6874,723,44,Aug
+91,Regular Expression Character Classes in Python,2023-08-08,10116,180,13,Aug
+92,#Recruiters #dataanalysis #data,2023-08-03,16022,1109,24,Aug
+93,Regular Expression Metacharacters in Python,2023-08-01,7785,200,8,Aug
+94,How much do Data Analysts make? #dataanalyst #dataanalystsalary,2023-07-31,20053,784,41,Jul
+95,Do you need to learn SQL if you can do everything in Python?  #Python #dataanalysis #SQL,2023-07-28,47413,2831,42,Jul
+96,Regular Expression Methods in Python,2023-07-25,11796,285,13,Jul
+97,What are Hiring Managers Looking For? | Nail the Interview Process!,2023-07-18,30778,1220,67,Jul
+98,Scraping Data from a Real Website | Web Scraping in Python,2023-07-11,429375,7865,314,Jul
+99,SQL Beginner to Advanced in One Hour | CareerFoundry Webinar,2023-07-06,214317,6343,115,Jul
+100,Find and Find_All | Web Scraping in Python,2023-07-04,58088,1542,28,Jul
+101,500k Livestream!!,2023-06-28,6257,385,24,Jun
+102,BeautifulSoup + Requests | Web Scraping in Python,2023-06-27,128121,2423,57,Jun
+103,Inspecting Web Pages with HTML | Web Scraping in Python,2023-06-20,59990,1526,35,Jun
+104,Best Places to Find Datasets for Your Projects,2023-06-13,124829,3471,75,Jun
+105,Exploratory Data Analysis in Pandas | Python Pandas Tutorials,2023-06-06,128660,3055,187,Jun
+106,Data Analyst Q/A Livestream | May Livestream | Ask Me Anything!,2023-05-30,10239,366,21,May
+107,What is Microsoft Fabric? | New Data Analytics Platform!,2023-05-29,221712,4660,141,May
+108,Data Cleaning in Pandas | Python Pandas Tutorials,2023-05-23,287186,7287,377,May
+109,The Ultimate Data Analytics Career Plan for 2023 | CareerFoundry Webinar,2023-05-16,58411,1882,52,May
+110,State of AI in Analytics | Will AI be the End of Data Analysts?,2023-05-15,45764,1371,378,May
+111,Google Bard Got An Upgrade! + Google's New AI Announcements!,2023-05-12,33337,804,80,May
+112,Creating Visualizations using Pandas Library | Python Pandas Tutorials,2023-05-09,62724,1440,38,May
+113,Merging DataFrames in Pandas | Python Pandas Tutorials,2023-05-02,97465,2190,60,May
+114,Data Analyst Q/A Livestream | April Livestream | Ask Me Anything!,2023-04-27,10294,341,27,Apr
+115,How to Integrate ChatGPT in Jupyter Notebooks for Free!,2023-04-25,55680,1163,54,Apr
+116,7 Ways to Use ChatGPT for Analytics | Webinar,2023-04-18,38952,1081,34,Apr
+117,Google Business Intelligence Professional Certification Review,2023-04-18,42226,1184,71,Apr
+118,Google Advanced Data Analytics Professional Certificate First Look | Is it Worth it?,2023-04-10,147825,4225,385,Apr
+119,Group By and Aggregate Functions in Pandas | Python Pandas Tutorials,2023-04-04,77520,1949,107,Apr
+120,Top 5 Biggest Mistakes Beginner Data Analysts Make,2023-03-28,38964,1776,82,Mar
+121,Indexes in Pandas | Python Pandas Tutorials,2023-03-21,51448,1211,36,Mar
+122,Create the Perfect Data Analyst Resume | Free Templates!,2023-03-14,184461,5314,230,Mar
+123,Filtering Columns and Rows in Pandas | Python Pandas Tutorials,2023-03-07,82798,1778,59,Mar
+124,Data Analyst Q/A Livestream | March Livestream | Ask Me Anything!,2023-03-02,11182,398,33,Mar
+125,Reading in Files in Pandas | Python Pandas Tutorials,2023-02-28,165306,2810,86,Feb
+126,Building an Automated File Sorter in File Explorer using Python | Python Projects for Beginners,2023-02-21,59353,1341,83,Feb
+127,ChatGPT for Data Analysts | Best Use Cases + Analyzing a Dataset,2023-02-14,443406,8305,224,Feb
+128,FREE Data Analyst Bootcamp!!,2023-02-07,1382426,38010,1496,Feb
+129,How to Become a Data Analyst in 2023 (Completely FREE!),2023-01-31,1136533,38915,1109,Jan
+130,Live Portfolio Review with Alex the Analyst!  | Live Webinar,2023-01-25,17575,631,23,Jan
+131,DIY Data Analyst Curriculum using Udemy (Under $75),2023-01-24,38826,1419,119,Jan
+132,Reviewing Maven Analytics Free Portfolio Website,2023-01-17,24907,770,48,Jan
+133,5 Study Hacks for Beginner Data Analysts! | Live Webinar,2023-01-16,46221,1359,36,Jan
+134,DIY Data Analyst Curriculum using Coursera in 2023,2023-01-10,62686,2960,221,Jan
+135,Building a BMI Calculator with Python | Python Projects for Beginners,2023-01-03,73344,1543,76,Jan
+136,"Reading, Writing, and Appending Files in Python | Python for Beginners",2022-12-27,7531,241,12,Dec
+137,Why I Quit my 125k Analytics Job,2022-12-20,157364,8718,859,Dec
+138,Data Analyst Q/A Livestream + Special Guest! | December Livestream,2022-12-17,5074,168,16,Dec
+139,Converting Data Types in Python | Python for Beginners,2022-12-13,41220,1148,33,Dec
+140,Functions in Python | Python for Beginners,2022-12-06,54671,1382,31,Dec
+141,While Loops in Python | Python for Beginners,2022-11-29,53592,1446,27,Nov
+142,For Loops in Python | Python for Beginners,2022-11-22,53869,1288,24,Nov
+143,Data Analyst Q/A Livestream | November Livestream,2022-11-16,6279,201,18,Nov
+144,If Else Statements in Python | Python for Beginners,2022-11-15,46139,1231,27,Nov
+145,"Comparison, Logical, and Membership Operators in Python | Python for Beginners",2022-11-08,49122,1284,23,Nov
+146,Data Types in Python | Python for Beginners,2022-11-01,106772,2530,67,Nov
+147,Data Analyst Q/A Livestream | October Livestream,2022-10-31,5711,182,11,Oct
+148,Variables in Python | Python for Beginners,2022-10-25,105333,2328,62,Oct
+149,300k Livestream! | Giveaways for People in Chat | Bring Your Wine,2022-10-19,5264,244,23,Oct
+150,Installing Jupyter Notebooks/Anaconda | Python for Beginners,2022-10-18,343065,5287,148,Oct
+151,Interviewing Tina Huang | Fellow YouTuber and Data Enthusiast,2022-10-13,9516,336,21,Oct
+152,Interviewing Luke Barousse | Arch-Nemesis and Fellow YouTuber,2022-10-11,7363,329,31,Oct
+153,When Best Friends Work Together (ft. Luke Barousse),2022-10-04,15708,684,84,Oct
+154,Data Analyst Live Stream | Riding out Hurricane Ian,2022-10-01,6738,213,14,Oct
+155,Full Power BI Guided Project | Microsoft Power BI for Beginners,2022-09-27,412515,7884,424,Sep
+156,Popular Visualizations in Power BI | Microsoft Power BI for Beginners,2022-09-20,104798,2455,57,Sep
+157,"Guided Portfolio Projects on Coursera | Python, SQL, Excel, Power BI, and Tableau",2022-09-13,57527,2138,95,Sep
+158,How to use Bins and Lists in Power BI | Microsoft Power BI for Beginners,2022-09-06,96745,2157,47,Sep
+159,How to use Conditional Formatting in Power BI | Microsoft Power BI for Beginners,2022-08-30,152868,2490,56,Aug
+160,Top 8 Mistakes Beginner Data Analyst's Make | CareerFoundry Webinar,2022-08-24,76972,2070,76,Aug
+161,Interviewing Ken Jee | The Face of Data Science on YouTube,2022-08-23,7173,253,15,Aug
+162,CareerFoundry Data Analytics Bootcamp Review | Bootcamp + Intro + Free Course Review,2022-08-16,27166,657,127,Aug
+163,How to use Drill Down in Power BI | Microsoft Power BI for Beginners,2022-08-09,187068,3252,74,Aug
+164,"Best Courses for Alternative Analyst Jobs | Marketing Analyst, Business Analyst, Financial Analyst",2022-08-02,20188,865,74,Aug
+165,250k Subscriber Live Stream!!,2022-07-26,4161,157,11,Jul
+166,How to use DAX in Power BI | Microsoft Power BI for Beginners,2022-07-26,192331,3844,164,Jul
+167,Tech Layoffs and Hiring Freezes | The Great Resignation | Alex The Analyst Show | Episode 23,2022-07-19,21980,616,123,Jul
+168,How to Create and Manage Relationships in Power BI | Microsoft Power BI for Beginners,2022-07-12,237171,4228,104,Jul
+169,Machine Learning Specialization on Coursera | Review,2022-07-05,24916,782,63,Jul
+170,Meta Marketing Analytics Professional Certificate on Coursera | Review,2022-06-28,35888,930,102,Jun
+171,Google's Secret Hiring Platform | Found in the Google Data Analytics Certification,2022-06-21,45609,1646,134,Jun
+172,How to use Power Query in Power BI | Microsoft Power BI for Beginners,2022-06-14,330760,5262,97,Jun
+173,Automating Crypto Website API Pull Using Python | Data Analyst Project,2022-06-07,66759,1114,102,Jun
+174,How to use a Public API | Using a Public API with Python,2022-05-31,43656,1403,72,May
+175,How to Install Power BI | Building First Visualization | Microsoft Power BI for Beginners,2022-05-24,499329,8591,267,May
+176,MySQL vs Postgresql vs Microsoft SQL Server Management Tools | Which Option is Best?,2022-05-17,137176,2900,275,May
+177,Top 3 Tips to Stop Procrastinating to be Successful,2022-05-10,33358,1681,158,May
+178,SQL vs NoSQL | What's the Difference?,2022-05-03,59871,1812,67,May
+179,Database vs Data Warehouse vs Data Lake | What is the Difference?,2022-04-26,773226,20395,300,Apr
+180,How I Manage My Time Working 60+ Hours Per Week | Alex The Analyst Show | Episode 22,2022-04-20,11840,321,161,Apr
+181,200k Livestream! | Shaving | Puppies | Giveaway,2022-04-14,3175,133,11,Apr
+182,Things I HATE About Being a Data Analyst,2022-04-12,36077,1499,202,Apr
+183,Best Website to Practice Technical Interview Questions,2022-04-05,19264,666,55,Apr
+184,Pros and Cons of Working Remote | Alex The Analyst Show | Episode 21,2022-03-29,7089,276,161,Mar
+185,Full Project in Excel | Excel Tutorials for Beginners,2022-03-22,795887,17099,1007,Mar
+186,Top 5 Non-Technical Skills for Data Analysts,2022-03-15,21768,816,73,Mar
+187,Cleaning Data in Excel | Excel Tutorials for Beginners,2022-03-01,531018,11108,307,Mar
+188,Tableau Data Analyst Certification Review,2022-02-22,65529,1604,124,Feb
+189,Job Title Alternatives for Data Analysts,2022-02-15,26271,1017,95,Feb
+190,Best Coursera Courses for Data Analysts in 2022,2022-02-08,118609,5729,222,Feb
+191,Understanding Your Data Analyst Salary Offer | What To Know Before Accepting,2022-02-01,20995,721,61,Feb
+192,Charts in Excel | Excel Tutorials for Beginners,2022-01-25,130045,3290,69,Jan
+193,How I became a Data Analytics Manager | Alex The Analyst Show | Episode 20,2022-01-18,23089,857,361,Jan
+194,Conditional Formatting in Excel | Excel Tutorials for Beginners,2022-01-11,179094,3876,106,Jan
+195,150k Subscriber Livestream!!,2022-01-10,3492,159,7,Jan
+196,How To Become A Data Analyst In 2022,2022-01-04,497629,22051,641,Jan
+197,XLOOKUP in Excel | Excel Tutorials for Beginners,2021-12-28,213829,4649,174,Dec
+198,Formulas in Excel | Excel Tutorials for Beginners,2021-12-21,348069,7709,397,Dec
+199,Pivot Tables in Excel | Excel Tutorials for Beginners,2021-12-14,688529,14168,376,Dec
+200,Full Beginner Project in Tableau | Tableau Tutorials for Beginners,2021-12-07,280626,5579,413,Dec
+201,How to use Joins in Tableau | Tableau Tutorials for Beginners,2021-11-23,130166,3587,63,Nov
+202,Top 5 Major Red Flags in Job Descriptions,2021-11-18,18322,960,71,Nov
+203,Truth About My Job (Song) - As a Data Analyst,2021-11-08,10822,890,107,Nov
+204,How to Grow Your Analytics Career | Alteryx Webinar Oct 2021 | Tips to Break Into Analytics,2021-10-26,11217,341,34,Oct
+205,Choosing a Domain to Make More Money,2021-10-19,19790,957,81,Oct
+206,How to Create Visualizations in Tableau | Tableau Tutorials for Beginners,2021-10-05,169981,3871,180,Oct
+207,How to use Calculated Fields and Bins in Tableau | Tableau Tutorials for Beginners,2021-09-28,218767,4727,87,Sep
+208,How to Install Tableau and Create First Visualization | Tableau Tutorials for Beginners,2021-09-21,690109,15958,385,Sep
+209,How NOT to Become a Data Analyst (Funny?),2021-09-07,17349,711,114,Sep
+210,100k Subscriber Play Button Unboxing,2021-08-31,2663,241,96,Aug
+211,Amazon Web Scraping Using Python | Data Analyst Portfolio Project,2021-08-24,270494,6152,635,Aug
+212,Interviewing with PwC for a Senior Data Analyst Position,2021-08-17,94559,2526,159,Aug
+213,100k Livestream | Announcing Giveaway Winners | Trimming Mustache | Answering Questions,2021-08-13,4744,191,26,Aug
+214,I Am No Longer a Data Analyst | Turning Down PwC | New Job,2021-08-11,143188,4411,487,Aug
+215,When To Start Applying To Your First Data Analyst Job,2021-07-21,84234,4481,238,Jul
+216,Why You Need to Stop Taking Courses (From an Ex-Course Addict),2021-07-13,130667,5634,364,Jul
+217,How to Create a Portfolio Website for FREE,2021-06-29,594325,13561,750,Jun
+218,Data Analyst Portfolio Project | Correlation in Python | Project 4/4,2021-06-22,172414,3028,492,Jun
+219,How To Get a Data Analyst Job (with No Experience),2021-06-08,467853,20289,604,Jun
+220,My Wife Answers Subscribers Questions About Me | Alex The Analyst Show | Episode 19,2021-06-03,6344,240,108,Jun
+221,Favorite Tableau and Power BI Courses on Udemy,2021-06-01,32259,859,86,Jun
+222,Data Analyst Portfolio Project | Data Cleaning in SQL | Project 3/4,2021-05-25,416264,7964,868,May
+223,Data Analyst Portfolio Project | Tableau Visualization | Project 2/4,2021-05-18,372541,5941,451,May
+224,Asking My Family What I Do For a Living,2021-05-11,3743,194,55,May
+225,Data Analyst Portfolio Project | SQL Data Exploration | Project 1/4,2021-05-04,1940191,33973,4136,May
+226,Advanced SQL Tutorial | Subqueries,2021-04-20,375551,8319,218,Apr
+227,Data Analyst Q/A #6 | Why Am I Not a Data Scientist?,2021-04-15,22250,823,149,Apr
+228,Google vs IBM Data Analytics Certificates | Which is Better?,2021-04-13,333256,11680,607,Apr
+229,Data Analyst Reacts: How to Go From Data Analyst to Data Scientist,2021-04-06,26831,934,85,Apr
+230,Laptops for Data Analysts |  Specifications + Recommendations,2021-03-30,184909,4052,312,Mar
+231,Best Machine Learning Courses on Coursera,2021-03-23,58892,1770,83,Mar
+232,Will Data Analysts Be Automated? | Alex The Analyst | Episode 18,2021-03-18,16316,475,120,Mar
+233,Advanced SQL Tutorial | Stored Procedures + Use Cases,2021-03-16,420717,7499,196,Mar
+234,Google Data Analytics Professional Certificate | It's Finally Here!,2021-03-12,364896,11145,1178,Mar
+235,Google Data Analytics Certificate | Coming Out Soon!,2021-03-04,51737,2366,316,Mar
+236,Reviewing Your Data Analyst Resumes | Part 2,2021-03-02,23557,569,78,Mar
+237,Best Course to Learn Statistics for Data Analysis,2021-02-25,110115,2774,90,Feb
+238,DataQuest Review | Is it Worth it?,2021-02-23,24330,419,45,Feb
+239,R vs Python | Which is Better for Data Analysis?,2021-02-16,225218,5013,402,Feb
+240,Advanced SQL Tutorial | String Functions + Use Cases,2021-02-04,176497,4439,151,Feb
+241,Advanced SQL Tutorial | Temp Tables,2021-02-02,252293,5616,141,Feb
+242,IBM Data Analyst Certificate Study Session,2021-01-30,5230,173,22,Jan
+243,IBM Data Analyst Professional Certificate by Coursera | Is it Worth it?,2021-01-26,125134,3146,307,Jan
+244,DataCamp Review | Is it Worth it?,2021-01-21,177072,3706,260,Jan
+245,Best Python Course for Data Analysts,2021-01-19,53236,1360,118,Jan
+246,Top 5 Data Analyst Skills,2021-01-12,31847,1327,173,Jan
+247,Best Industries for Data Analysts in 2021 | Alex The Analyst Show | Episode 17,2021-01-07,15098,489,147,Jan
+248,Top 5 Data Analyst Interview Mistakes,2021-01-05,86340,2185,73,Jan
+249,2020 Year End Review + Upcoming Giveaway Details,2020-12-31,1571,140,101,Dec
+250,Data Analyst Resume | Everything You Need to Know | Alex The Analyst Show | Episode 16,2020-12-24,41627,1197,137,Dec
+251,Solving Medium Level SQL LeetCode Questions | Part 2/3,2020-12-22,11380,241,32,Dec
+252,Entry vs Mid vs Senior Level Data Analyst | Alex The Analyst Show | Episode 15,2020-12-17,46777,1548,209,Dec
+253,Data Engineer vs Data Analyst | Which Is Right For You?,2020-12-15,83708,2757,146,Dec
+254,How to Find Out Your Coworkers Salary | Alex The Analyst Show | Episode 14,2020-12-10,2896,93,53,Dec
+255,Advanced SQL Tutorial | CTE (Common Table Expression),2020-12-08,343261,5501,186,Dec
+256,"Data Analyst Salary (Expectations, Bonuses, 401K, ESPP) | Alex The Analyst Show | Episode 13",2020-12-03,23084,737,189,Dec
+257,Intermediate SQL Tutorial | Partition By,2020-12-01,276444,6413,200,Dec
+258,Data Analyst Q/A LIVE #5 | AMA,2020-11-28,4856,131,18,Nov
+259,Completely REALISTIC Jobs on LinkedIn | Alex The Analyst Show | Episode 12,2020-11-25,24586,881,162,Nov
+260,Completely Unrealistic Jobs on LinkedIn | Alex The Analyst Show | Episode 11,2020-11-19,14476,569,205,Nov
+261,Top 3 Tips on Using LinkedIn to Land a Job,2020-11-17,292213,10805,235,Nov
+262,What is No Code Analytics? | Alex The Analyst Show | Episode 10,2020-11-12,3832,119,81,Nov
+263,Solving LeetCode SQL Interview Questions | Part 1/3,2020-11-10,25426,657,65,Nov
+264,What is Analytics Consulting? With John Ariansen | Alex The Analyst Show | Episode 9,2020-11-05,13302,383,117,Nov
+265,Data Analyst Skills Path | What Skills You NEED to Know,2020-11-03,77071,3608,275,Nov
+266,Data Analyst Q&A LIVE #4,2020-10-30,3499,105,25,Oct
+267,Asking My Wife Your Questions About Me | Alex The Analyst Show | Episode 8,2020-10-27,14066,560,222,Oct
+268,Top 10 Udemy Courses for Data Analysts,2020-10-22,170129,4823,283,Oct
+269,Data Analyst Certifications | Are They Worth It? | Alex The Analyst Show | Episode 7,2020-10-20,179036,6214,988,Oct
+270,Working at a Startup vs Fortune 500 Company | Alex The Analyst Show | Episode 6,2020-10-15,4717,176,74,Oct
+271,Top 10 Coursera Courses for Data Analysts,2020-10-13,109115,4746,285,Oct
+272,Imposter Syndrome in Tech | Alex The Analyst Show | Episode 5,2020-10-08,7341,365,176,Oct
+273,Data Analyst Expectations vs Reality,2020-10-06,75743,2799,188,Oct
+274,Covid and the Data Analyst Job Market | Alex The Analyst Show | Episode 4,2020-10-01,7250,252,161,Oct
+275,Self Taught vs Boot Camp vs Degree | Alex The Analyst Show | Episode 3,2020-09-24,45309,1516,715,Sep
+276,Top 5 Reasons You'll Be a Good Data Analyst,2020-09-22,14665,615,82,Sep
+277,How I Changed Careers to Become a Data Analyst | Alex The Analyst Show | Episode 2,2020-09-10,416286,12169,3824,Sep
+278,Top 5 Reasons Data Analytics is a Good Career Choice,2020-09-08,44383,1318,73,Sep
+279,The Hiring Process from an Interviewer's Perspective | Alex The Analyst Show | Episode 1,2020-09-03,21069,694,84,Sep
+280,Top 5 Reasons Not to Lie on Your Resume,2020-09-01,12090,207,120,Sep
+281,Live Data Analyst Q&A #3,2020-08-29,2967,100,43,Aug
+282,Data Analyst Career Path | How to Become a Data Analyst + What to Do Next,2020-08-20,130746,4662,271,Aug
+283,Top 5 Reasons Not to Become a Data Analyst,2020-08-12,923198,19774,1051,Aug
+284,Data Analyst Bootcamps | Are They Worth It?,2020-08-05,34446,582,91,Aug
+285,What Does a Data Analyst Actually Do?,2020-07-29,953846,18637,485,Jul
+286,Data Analyst Question and Answer | Answering Your YouTube Questions,2020-07-22,4610,173,67,Jul
+287,Scraping Data Off Twitter Using Python | Twitterscraper + NLP + Data Visualization,2020-07-15,54547,1382,158,Jul
+288,Data Analyst vs Business Analyst | Which Is Right For You?,2020-07-03,760181,19307,583,Jul
+289,Best Free Online Courses for Data Analysts,2020-06-23,57267,2756,95,Jun
+290,Best Online Courses for Data Analysts,2020-06-17,183959,9452,424,Jun
+291,Data Scientist vs Data Analyst | Which Is Right For You?,2020-06-10,784330,24252,865,Jun
+292,Intermediate SQL Tutorial | Aliasing,2020-06-04,148106,3973,101,Jun
+293,Data Analyst Q&A LIVE,2020-05-31,10892,260,54,May
+294,Data Analyst Interviews | Salary Negotiation,2020-05-27,26466,843,27,May
+295,Data Analyst Interview Questions | What To Say vs What NOT To Say,2020-05-20,74208,1798,36,May
+296,SQL Interview Questions and Answers for Beginners | Data Analyst Interview Questions,2020-05-13,126695,3293,113,May
+297,Data Analyst Interview Questions | Phone + In-Person Interview Questions,2020-05-06,81752,1644,62,May
+298,Day in the Life of a Data Analyst | Fortune 500 Edition (During Quarantine),2020-04-23,15230,520,52,Apr
+299,Intermediate SQL Tutorial | Updating/Deleting Data,2020-04-16,152523,3433,142,Apr
+300,Intermediate SQL Tutorial | Having Clause,2020-04-09,179911,4679,86,Apr
+301,Intermediate SQL Tutorial | Case Statement | Use Cases,2020-04-02,293837,7166,427,Apr
+302,Intermediate SQL Tutorial | Unions | Union Operator,2020-03-26,259206,5039,166,Mar
+303,Intermediate SQL Tutorial | Inner/Outer Joins | Use Cases,2020-03-19,530002,9031,473,Mar
+304,Day in the Life of a Data Analyst | Fortune 500 Edition,2020-03-11,125798,2583,262,Mar
+305,SQL Basics Tutorial For Beginners | Group By + Order By Statements | 4/4,2020-03-03,330999,8164,235,Mar
+306,SQL Basics Tutorial For Beginners | Where Statement | 3/4,2020-03-02,349148,6105,157,Mar
+307,SQL Basics Tutorial For Beginners | Select + From Statements | 2/4,2020-03-01,508377,7365,304,Mar
+308,SQL Basics Tutorial For Beginners | Installing SQL Server Management Studio and Create Tables | 1/4,2020-03-01,1411756,18218,2050,Mar
+309,Data Analyst Fact Check |  84k Average Starting Salary?? | The Career Force 2020 Data Analyst Salary,2020-02-26,25899,851,162,Feb
+310,Data Analyst Resume | Reviewing YOUR Data Analyst Resumes!,2020-02-24,25892,549,39,Feb
+311,Data Analyst Salary in 2020,2020-02-19,8186,156,25,Feb
+312,Working With a Recruiter to Land Your First Job as a Data Analyst | LinkedIn Recruiters,2020-02-14,14547,625,39,Feb
+313,Switching Careers to Become a Data Analyst | How I Made the Switch,2020-02-11,49440,1793,251,Feb
+314,Data Analyst Resume | Complete Guide To Creating A Data Analyst Resume | Tips + Templates + Examples,2020-02-06,121907,3541,104,Feb
+315,Data Analyst Resume | Reviewing My Resume! | Fortune 500 Data Analyst,2020-01-30,74906,1696,63,Jan
+316,Working at a Big Company Vs Small Company | Told by a Fortune 500 Data Analyst,2020-01-25,15363,412,22,Jan
+317,Data Analyst Salary | 100k with No Experience,2020-01-23,65217,2209,230,Jan
+318,Truth About Big Companies | Told by a Fortune 500 Data Analyst,2020-01-21,9138,333,19,Jan
+319,Top 3 Data Analyst Skills in 2020,2020-01-17,29475,1416,141,Jan
